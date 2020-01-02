@@ -18,11 +18,11 @@ The four questions of the Data Science Challenge were answered throughout the Py
 
 The following packages (i.e., libraries) are necessary to run the project successfully:
 
--> numpy >= 1.16.2
--> pandas >= 0.23.4
--> seaborn >= 0.9.0
--> sklearn >= 0.20.3
--> H<sub>2</sub>O >= 3.18.0.2
+1. numpy >= 1.16.2
+2. pandas >= 0.23.4
+3. seaborn >= 0.9.0
+4. sklearn >= 0.20.3
+5. H<sub>2</sub>O >= 3.18.0.2
 
 
 
